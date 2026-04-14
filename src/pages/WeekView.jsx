@@ -35,7 +35,7 @@ export default function WeekView({ weekNumber, isComplete, toggleWeek }) {
       <div className="week-view__header">
         {phase && (
           <div className="week-view__phase-badge">
-            <span className="phase-badge" data-phase={phase.id}>{phase.label} · {phase.name}</span>
+            <span className="phase-badge" data-phase={phase.id}>{phase.label.toUpperCase()} · {phase.name}</span>
           </div>
         )}
         <h1 className="week-view__title">
