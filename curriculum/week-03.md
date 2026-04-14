@@ -55,9 +55,9 @@ Position size = $20 / (30 × $10) = $20 / $300 = **0.067 lots** (round down to 0
 4. Find and screenshot HFM's swap rates for EUR/USD on your account type. Calculate the cost of holding 0.1 lot long for one week, including Wednesday triple.
 
 ## Trainer check-in topics
-- Her MT5 setup — screenshot and replicate
-- Her specific order-entry routine
-- Her rules for managing a trade once it's open
+- Their MT5 setup — screenshot and replicate
+- Their specific order-entry routine
+- Their rules for managing a trade once it's open
 
 ## Self-assessment questions
 - Can you calculate position size in under 30 seconds for any pair, any account, any stop distance?

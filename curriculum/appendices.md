@@ -103,7 +103,7 @@ When the streak hits, work through this in order:
 
 4. **Reduce size, do not stop.** If drawdown hits 10%+, halve your position size for the next week. Do not stop trading entirely unless kill switch triggers — staying active at reduced size preserves the learning feedback loop.
 
-5. **Extra trainer review.** Month 4 = double your weekly review time if needed. Use her experience.
+5. **Extra trainer review.** Month 4 = double your weekly review time if needed. Use their experience.
 
 ### The Month 4 rules (non-negotiable)
 
@@ -134,7 +134,7 @@ A losing streak is evidence of variance, not evidence of failure. Over 50 trades
 
 ### SMC-specific resources
 
-Ask your trainer for her two or three recommended sources. Use only those. The SMC space on YouTube is 90% noise and overlapping gurus. Your trainer is your signal.
+Ask your trainer for their two or three recommended sources. Use only those. The SMC space on YouTube is 90% noise and overlapping gurus. Your trainer is your signal.
 
 ### Tools
 

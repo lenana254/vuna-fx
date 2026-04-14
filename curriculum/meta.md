@@ -1,8 +1,8 @@
 # The 12-Month Forex Trading Curriculum
 ## A Deliberate Path to Demonstrated Edge
 
-**Student:** Leo
-**Trainer:** [Family member, experienced SMC trader]
+**Student:** [Student]
+**Trainer:** [Trainer]
 **Broker / Platform:** HFM Kenya / MetaTrader 5
 **Start Date:** _______________
 **Reframed Goal (Month 12):** *Demonstrated edge across 300+ live trades at a scale where additional capital would produce meaningful income.*
@@ -24,7 +24,7 @@ This is a **working curriculum**, not a reference book. It is designed to be exe
 **Before you start:**
 1. Read the **Operating Principles** and **Kill Switches** sections below. Print the Kill Switches page and keep it where you trade.
 2. Set up your journaling infrastructure (see *Journaling System* section) before Week 1.
-3. Share this document with your trainer. Ask her: *"What would you change or remove?"* — not for approval.
+3. Share this document with your trainer. Ask them: *"What would you change or remove?"* — not for approval.
 4. Commit to the Sunday accountability ritual. It is the single load-bearing habit in this entire system.
 
 ---
@@ -114,7 +114,7 @@ Every Sunday evening:
 2. Schedule 20 minutes within 48 hours
 3. Trainer reviews screenshots + spreadsheet and asks questions. You answer.
 
-**Questions the trainer should ask (give her this list):**
+**Questions the trainer should ask (give them this list):**
 - Which trade this week was your best-executed, regardless of outcome?
 - Which trade was your worst-executed, regardless of outcome?
 - Where did you violate a rule? Why?

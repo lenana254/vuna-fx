@@ -21,4 +21,4 @@ Mid-point of the capital scaling block. Run a full stats review at the new capit
 
 **Monthly stats review** (if this falls at month-end): Include both Phase 3 cumulative stats and Phase 4 stats separately. You want to know whether Phase 4 performance is tracking to Phase 3 or diverging.
 
-**Trainer question:** *"Based on my Phase 4 performance so far, what is your honest assessment of whether I'm ready to begin scaling risk % in Week 33?"* Record her answer.
+**Trainer question:** *"Based on my Phase 4 performance so far, what is your honest assessment of whether I'm ready to begin scaling risk % in Week 33?"* Record their answer.

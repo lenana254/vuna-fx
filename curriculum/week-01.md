@@ -28,13 +28,13 @@
 
 ## Practical exercises
 1. Open a demo account on HFM with MT5. Do not place any trades yet.
-2. Identify the three sessions on the clock in your timezone (Dublin and Nairobi — know both, since you move between them).
+2. Identify the three sessions on the clock in your timezone ([your two timezones] — know both, since you move between them).
 3. Watch EUR/USD for 30 minutes during the Asian session and 30 minutes during the London open. Note the difference in candle size and speed.
 4. Write out the difference between your stock investing experience and forex trading in your own words. Give to trainer.
 
 ## Trainer check-in topics
-- Her trading history on HFM: what account type, what pair, what session
-- Why she chose SMC as a methodology
+- Their trading history on HFM: what account type, what pair, what session
+- Why they chose SMC as a methodology
 - Ask: *"What were your three worst months in the last two years, what caused them, and what did you change?"*
 
 ## Self-assessment questions

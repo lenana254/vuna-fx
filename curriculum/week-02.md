@@ -59,8 +59,8 @@ With 5% risk per trade:
 4. Look up HFM's exact margin call and stop-out levels. Write them down.
 
 ## Trainer check-in topics
-- Her actual risk per trade. If she says anything higher than 2%, ask her to walk you through her drawdown history.
-- How she handles a losing streak.
+- Their actual risk per trade. If they say anything higher than 2%, ask them to walk you through their drawdown history.
+- How they handle a losing streak.
 
 ## Self-assessment questions
 - Can you explain, in under 60 seconds, why risking 5% per trade is mathematically different (not just "riskier") than risking 1%?

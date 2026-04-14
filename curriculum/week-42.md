@@ -20,4 +20,4 @@ Monthly stats review (if applicable). Calculate and record all standard metrics 
 
 This is your Year 1 story in numbers. You will need it for the Month 12 assessment.
 
-**Trainer question this month:** *"Looking at my full year of data, what is the one thing I should focus on in the final 10 weeks to maximize Year 1 outcomes?"* Record her answer and act on it.
+**Trainer question this month:** *"Looking at my full year of data, what is the one thing I should focus on in the final 10 weeks to maximize Year 1 outcomes?"* Record their answer and act on it.

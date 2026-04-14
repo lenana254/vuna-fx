@@ -22,6 +22,6 @@ One week before the Phase 3 decision. Prepare your Week 26 assessment package.
    - *"The biggest gap between my demo and live performance is..."* (one sentence)
    - *"My recommendation for Phase 4 readiness is..."* (one sentence)
 
-4. **Trainer's view:** Give your trainer the decision framework table from week-23.md before the review. Ask her to assign your scenario independently, without seeing your pre-assessment. Compare.
+4. **Trainer's view:** Give your trainer the decision framework table from week-23.md before the review. Ask them to assign your scenario independently, without seeing your pre-assessment. Compare.
 
 If your pre-assessment and trainer's assessment agree, you have clarity. If they diverge, spend time in the review understanding why.

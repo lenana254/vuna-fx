@@ -14,7 +14,7 @@
 ## Assessment structure
 
 **Part 1 — Data review (trainer-led):**
-Trainer reviews the Year 1 data package from Week 49. She asks questions; you answer.
+Trainer reviews the Year 1 data package from Week 49. They ask questions; you answer.
 
 **Part 2 — The honest question:**
 You answer the three-component question from week-49.md:

@@ -33,7 +33,7 @@ A CHOCH does not confirm a reversal by itself. It opens the door to one.
 
 ## Reading
 - YouTube: The Inner Circle Trader (ICT) — his "Free Mentorship" series if your trainer endorses ICT specifically. **Do not rabbit-hole. One or two videos per week max.**
-- Ask your trainer for her two or three recommended SMC resources. Use only those.
+- Ask your trainer for their two or three recommended SMC resources. Use only those.
 
 ## Practical exercises
 1. Open EUR/USD on the 4-hour chart. Identify the current trend state (uptrend / downtrend / range) and mark it. Share with trainer.
@@ -42,9 +42,9 @@ A CHOCH does not confirm a reversal by itself. It opens the door to one.
 4. Watch live price for 1 hour during London session. Just watch. Don't trade. Notice where price "wants" to go and where it hesitates.
 
 ## Trainer check-in topics
-- How she defines a "significant" high or low vs. noise
-- Her hierarchy of timeframes — which one sets bias, which one gives entries
-- Ask her to walk through a recent trade showing the BOS or CHOCH that triggered it
+- How they define a "significant" high or low vs. noise
+- Their hierarchy of timeframes — which one sets bias, which one gives entries
+- Ask them to walk through a recent trade showing the BOS or CHOCH that triggered it
 
 ## Self-assessment questions
 - Can you look at any chart and, within 30 seconds, identify the current trend state and the last BOS?
@@ -71,7 +71,7 @@ Before proceeding, confirm with your trainer:
 - [ ] You know HFM's exact spreads, swap rates, margin call level, and stop-out level for your account
 - [ ] You can identify trend state, BOS, and CHOCH on any chart within 30 seconds
 - [ ] Your journaling infrastructure is set up and tested (with fake trades)
-- [ ] Your trainer has reviewed this plan and given you her edits
+- [ ] Your trainer has reviewed this plan and given you their edits
 - [ ] You have printed the Kill Switches page and it is next to your trading screen
 
 **If any box is unchecked, extend Phase 1 by one week. Do not skip forward.**

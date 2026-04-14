@@ -41,9 +41,9 @@ This is the skeleton of most SMC setups. Your specific setup (to be defined in W
 3. Study 10 examples where price approached liquidity but did *not* sweep it. What was different?
 
 ## Trainer check-in topics
-- Her specific liquidity-based setup(s)
-- How she distinguishes a genuine sweep from a minor wick
-- What timeframe she uses to identify liquidity vs. execute the trade
+- Their specific liquidity-based setup(s)
+- How they distinguish a genuine sweep from a minor wick
+- What timeframe they use to identify liquidity vs. execute the trade
 
 ## Self-assessment questions
 - Can you look at any chart and mark the nearest BSL and SSL in under 30 seconds?
